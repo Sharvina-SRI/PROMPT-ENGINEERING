@@ -247,8 +247,6 @@ Hybrid Models: Combining LLMs with symbolic reasoning.
 ```
 
 ## Conclusion
-```
 Generative AI—powered by architectures like transformers—has redefined the possibilities in content creation, problem-solving, and automation.
 Scaling LLMs has unlocked remarkable capabilities, but efficiency, ethical governance, and accessibility remain critical.
 Future research will likely focus on making generative AI more sustainable, interpretable, and equitable, ensuring its benefits are widely distributed.
-```
